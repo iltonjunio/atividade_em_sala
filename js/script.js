@@ -50,22 +50,6 @@ function mostrarSomaNumerosImpares(valor) {
     console.log("A soma dos números ímpares é:", soma);
 }
 
-function todo() {
-    let penultimo = 0
-    let ultimo = 500
-    let contador = 1
-
-     while (ultimo <= 500)  {
-        if (contador += penultimo) {
-
-
-
-        }
-        numero++;
-    }
-    console.log("A soma dos números ímpares é:", soma)
-}
-
 mostrarNumerosPares(50);
 mostrarMultiplosDe5(50);
 mostrarSomaNumeros(50);

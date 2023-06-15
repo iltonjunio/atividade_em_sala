@@ -1,13 +1,4 @@
 function numerospares() {
-    let n = 2;
-    while (n <= 20) {
-        console.log(n);
-        n += 2;
-    }
-}
-
-//----------------------------------
-function numerospares() {
     let n = 1;
     while (n <= 20) {
         if (n % 2 == 0) {
@@ -58,6 +49,7 @@ function somaimpares() {
 }
 
 somaimpares();
+
 //---------------------------------------
 function somaimpares() {
     let n1 = 1;
